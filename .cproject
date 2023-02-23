@@ -53,7 +53,6 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.606966858.2037317569" name="state.hpp" rcbsApplicability="disable" resourcePath="includes/state.hpp" toolsToInvoke=""/>
 					<sourceEntries>
 						<entry excluding="state.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
